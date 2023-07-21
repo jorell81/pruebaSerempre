@@ -1,0 +1,17 @@
+F:\DESARROLLO\pruebaQVision\PruebaSerempre\bin\Debug\net6.0\PruebaSerempre.exe
+F:\DESARROLLO\pruebaQVision\PruebaSerempre\bin\Debug\net6.0\PruebaSerempre.deps.json
+F:\DESARROLLO\pruebaQVision\PruebaSerempre\bin\Debug\net6.0\PruebaSerempre.runtimeconfig.json
+F:\DESARROLLO\pruebaQVision\PruebaSerempre\bin\Debug\net6.0\PruebaSerempre.dll
+F:\DESARROLLO\pruebaQVision\PruebaSerempre\bin\Debug\net6.0\PruebaSerempre.pdb
+F:\DESARROLLO\pruebaQVision\PruebaSerempre\bin\Debug\net6.0\Newtonsoft.Json.dll
+F:\DESARROLLO\pruebaQVision\PruebaSerempre\obj\Debug\net6.0\PruebaSerempre.csproj.AssemblyReference.cache
+F:\DESARROLLO\pruebaQVision\PruebaSerempre\obj\Debug\net6.0\PruebaSerempre.GeneratedMSBuildEditorConfig.editorconfig
+F:\DESARROLLO\pruebaQVision\PruebaSerempre\obj\Debug\net6.0\PruebaSerempre.AssemblyInfoInputs.cache
+F:\DESARROLLO\pruebaQVision\PruebaSerempre\obj\Debug\net6.0\PruebaSerempre.AssemblyInfo.cs
+F:\DESARROLLO\pruebaQVision\PruebaSerempre\obj\Debug\net6.0\PruebaSerempre.csproj.CoreCompileInputs.cache
+F:\DESARROLLO\pruebaQVision\PruebaSerempre\obj\Debug\net6.0\PruebaSerempre.csproj.CopyComplete
+F:\DESARROLLO\pruebaQVision\PruebaSerempre\obj\Debug\net6.0\PruebaSerempre.dll
+F:\DESARROLLO\pruebaQVision\PruebaSerempre\obj\Debug\net6.0\refint\PruebaSerempre.dll
+F:\DESARROLLO\pruebaQVision\PruebaSerempre\obj\Debug\net6.0\PruebaSerempre.pdb
+F:\DESARROLLO\pruebaQVision\PruebaSerempre\obj\Debug\net6.0\PruebaSerempre.genruntimeconfig.cache
+F:\DESARROLLO\pruebaQVision\PruebaSerempre\obj\Debug\net6.0\ref\PruebaSerempre.dll

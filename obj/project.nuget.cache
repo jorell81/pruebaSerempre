@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "UQ8AqoLKtMhEVP6wDsYDDCRwNcUCA5EpL4TXKidUudL210nIYDm6bF2zkoGTXgB7M8JSmiWvkaqk01WnfFHS0w==",
+  "success": true,
+  "projectFilePath": "F:\\DESARROLLO\\pruebaQVision\\PruebaSerempre\\PruebaSerempre.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\William\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
